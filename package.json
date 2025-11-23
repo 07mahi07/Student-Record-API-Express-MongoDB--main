@@ -1,0 +1,15 @@
+{
+  "name": "student-record-api",
+  "version": "1.0.0",
+  "description": "Minor Project 1 — Student Record API using Express + MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.19.0",
+    "mongoose": "^8.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
